@@ -1,6 +1,6 @@
 const stats = [
   { value: "25+", label: "Years in Operation" },
-  { value: "$2.5B+", label: "Annual Construction Volume" }, // Changed m to B for billions
+  { value: "$2.3M+", label: "Annual Construction Volume" }, // Changed m to B for billions
   { value: "#15", label: "Top Regional Contractor" },
   { value: "100%", label: "Employee Owned" },
 ];
